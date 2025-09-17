@@ -43,6 +43,7 @@ It allows users to generate **custom KPI visualizations** (bar/line/table) from 
 
 ## 📂 Folder Structure
 
+```
 kpi-chart-builder/
 │── backend/
 │ ├── data/ # CSV dataset + SQLite database
@@ -62,7 +63,7 @@ kpi-chart-builder/
 │ └── package.json
 │
 └── README.md # (this file)
-
+```
 
 ---
 

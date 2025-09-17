@@ -16,6 +16,7 @@ It provides an interactive UI for building and visualizing **Key Performance Ind
 
 ## 📂 Folder Structure
 
+```
 frontend/
 ├── public/ # Static assets
 ├── src/
@@ -28,6 +29,7 @@ frontend/
 │ ├── index.js # React root render
 ├── package.json
 └── README.md
+```
 
 ## 🛠️ Setup & Run
 

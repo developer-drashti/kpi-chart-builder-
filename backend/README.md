@@ -23,7 +23,7 @@ It ingests raw CSV detection data into SQLite and provides **REST APIs** for KPI
 ---
 
 ## 📂 Folder Structure
-
+```
 backend/
 ├── data/
 │ └── data.csv # Raw detection CSV (seed input)
@@ -33,7 +33,7 @@ backend/
 ├── server.js # Express server + API routes
 ├── package.json
 └── README.md
-
+```
 
 ---
 
