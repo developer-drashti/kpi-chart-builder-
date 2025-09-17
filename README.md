@@ -72,7 +72,7 @@ kpi-chart-builder/
 ### 1️⃣ Clone Repository
 ```sh
 git clone <repo-url>
-cd kpi-dashboard
+cd kpi-chart-builder
 ```
 
 ### 2️⃣ Backend Setup
