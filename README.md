@@ -81,14 +81,14 @@ cd backend
 npm install
 ```
 
-**Seed Database ((Default seeds 10,000 rows from data.csv))**
+**Seed Database (Default seeds 10,000 rows from data.csv)**
 ```sh
 npm run seed
 ```
 
 **Run Backend**
 ```sh
-Run Backend
+npm start
 ```
 
 ### 3️⃣ Frontend Setup
